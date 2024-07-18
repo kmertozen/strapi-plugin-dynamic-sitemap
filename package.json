@@ -77,9 +77,9 @@
     "typescript": "^5.1.6"
   },
   "bugs": {
-    "url": "https://github.com/GoksalCosar/strapi-plugin-dynamic-sitemap/issues"
+    "url": "https://github.com/kmertozen/strapi-plugin-dynamic-sitemap/issues"
   },
-  "homepage": "https://github.com/GoksalCosar/strapi-plugin-dynamic-sitemap#readme",
+  "homepage": "https://github.com/kmertozen/strapi-plugin-dynamic-sitemap#readme",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=6.0.0"
